@@ -52,5 +52,5 @@ public class Removedor {
 		System.out.print(textoCorpus);
 	}
 
-	//#construa e exportação para arquivo texto...
+	//construa e exportação para arquivo texto...
 }
